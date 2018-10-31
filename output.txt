@@ -1,0 +1,30 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=52141:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+Basic operators
+The result is true
+The result is false
+The result is false
+The result is false
+The result is true
+The result is true
+Not operator
+The result is false
+The result is false
+The result is true
+Evaluations and returned values
+The result is false
+The value is 0.13041790682749588
+The result is true
+OR
+The result is true
+The result is true
+The result is true
+The result is false
+The result is true
+AND
+The result is true
+The result is false
+The result is false
+The result is false
+The result is false
+
+Process finished with exit code 0
