@@ -18,10 +18,10 @@ public class Main {
         result = (a < 5);  // Less than, result is false
         display(result);
 
-        result = (a <= 5); // Greater than or equal to, result is true
+        result = (a >= 5); // Greater than or equal to, result is true
         display(result);
 
-        result = (a >= 5); // Less than or equal to, result is true
+        result = (a <= 5); // Less than or equal to, result is true
         display(result);
 
         System.out.println("Not operator");
